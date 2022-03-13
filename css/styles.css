@@ -30,7 +30,6 @@ header {
     height: 60px;
     display: flex;
     align-items: center;
-    margin-bottom: 30px;
 }
 
 nav {
@@ -64,7 +63,7 @@ a, a:hover {
 }
 
 #dsmovie-card-list {
-    padding: 0 10px;
+    padding: 40px 10px;
 }
 
 .dsmovie-card {
@@ -84,7 +83,7 @@ a, a:hover {
     align-items: center;
     justify-content: space-between;
     border-radius: 0 0 8px 8px;
-    height: 220px;
+    height: 190px;
     margin-bottom: 20px;
 }
 
