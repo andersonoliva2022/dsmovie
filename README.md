@@ -3,6 +3,7 @@
 <img src="./dsmovie.img.jpeg" alt="dsmovie">
 
 > Layout para site de vídeos streaming.
+> Esse projeto utiliza HTML e CSS através do Bootstrap.
 
 ### Ajustes e melhorias
 
