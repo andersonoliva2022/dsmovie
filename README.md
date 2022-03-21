@@ -49,5 +49,3 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
